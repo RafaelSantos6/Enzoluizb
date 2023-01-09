@@ -1,7 +1,10 @@
 ## Bem-vindo ao meu GitHub 👋
 
-- 🏬 Estudante do Curso Técnico de Informática para Internet no SENAC - Joinville
-- 🌱 Estudando React
+##
+
+Me chamo Enzo Luiz Bertoli, tenho 18 anos e estou cursando Técnico de Informática para Internet no SENAC - Joinville
+
+🌱 Estudando React
 
 <div> 
   <a href="https://instagram.com/Enzoluizb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -13,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/Enzoluizb">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Enzoluizb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" margin-right="30em" src="https://github-readme-stats.vercel.app/api?username=Enzoluizb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoluizb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
