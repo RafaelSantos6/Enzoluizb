@@ -1,7 +1,7 @@
-## Olá, eu sou o Enzo!
+## Bem-vindo ao meu GitHub 👋
 
 - 🏬 Estudante do Curso Técnico de Informática para Internet no SENAC - Joinville
-- 🌱 Estudando PHP e JS
+- 🌱 Estudando React
 
 <div> 
   <a href="https://instagram.com/Enzoluizb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
