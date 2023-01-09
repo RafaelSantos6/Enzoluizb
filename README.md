@@ -28,7 +28,7 @@
 
  ##
   
- ![Snake gif](https://github.com/Enzoluizb/Enzoluizb/blob/output/github-contribution-grid-snake.svg)
+ 
  
   
  
