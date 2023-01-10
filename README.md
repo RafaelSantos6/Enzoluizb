@@ -13,8 +13,8 @@
 
 <div>
   <a href="https://github.com/enzoluizb">
-  <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?enzoluizb=YulietM&theme=react&line_height=40&hide=css"/> </a>
-  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?enzoluizb=YulietM&theme=react&line_height=40&hide=css"/> </a>
+  <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?Enzoluizb=YulietM&theme=react&line_height=40&hide=css"/> </a>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?Enzoluizb=YulietM&theme=react&line_height=40&hide=css"/> </a>
   <img align="right" height=150px width=150px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
 </div>
   
