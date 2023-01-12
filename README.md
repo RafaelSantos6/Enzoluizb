@@ -14,6 +14,7 @@
 <div>
   <a href="https://github.com/enzoluizb">
     <img align="left" height=150px width=150px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
+    href="https://github.com/Enzoluizb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoluizb&layout=compact&theme=buefy&hide_border=true" /></a> |
 </div>
   
 
