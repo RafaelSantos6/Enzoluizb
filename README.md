@@ -1,6 +1,9 @@
 ## Bem-vindo ao meu GitHub 👋
 
 <p>Me chamo Enzo Luiz Bertoli, tenho 18 anos e estou cursando Técnico de Informática para Internet no SENAC - Joinville</p>
+
+<img align="left" height=150px width=150px  src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
+
 <p>🌱 Estudando React</p>
 
 
@@ -17,7 +20,7 @@
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoluizb&layout=compact&langs_count=7&theme=dracula"/>
   
-  <img align="left" height=150px width=150px  src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
+  
 
    
   ![snake gif](https://github.com/enzoluizb/enzoluizb/blob/output/github-contribution-grid-snake.svg)
