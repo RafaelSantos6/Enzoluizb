@@ -18,7 +18,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoluizb&layout=compact&langs_count=7&theme=dracula"/>
   
   <img align="right" height=150px width=150px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
-<!--   ![Snake animation](https://github.com/enzoluizb/enzoluizb/blob/output/github-contribution-grid-snake.svg) -->
+
+    <!--   ![Snake animation](https://github.com/enzoluizb/enzoluizb/blob/output/github-contribution-grid-snake.svg) -->
   ![snake gif](https://github.com/enzoluizb/enzoluizb/blob/output/github-contribution-grid-snake.svg)
   
 </div>
