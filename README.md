@@ -13,8 +13,7 @@
   
   <div>
   <a href="https://github.com/Enzoluizb">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Enzoluizb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoluizb&layout=compact&langs_count=7&theme=dracula"/>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enzoluizb&theme=react&line_height=40&hide= css"/> </a>
   
 ![snake gif](https://github.com/enzoluizb/enzoluizb/blob/output/github-contribution-grid-snake.svg)
 </div>
