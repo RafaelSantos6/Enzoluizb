@@ -1,9 +1,7 @@
 ## Bem-vindo ao meu GitHub 👋
-
 <p>Me chamo Enzo Luiz Bertoli, tenho 18 anos e estou cursando Técnico de Informática para Internet no SENAC - Joinville</p>
-
 <p>🌱 Estudando React</p>
-
+<img align="right" height=150px width=150px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
 ##
 <div> 
   <a href="https://instagram.com/Enzoluizb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
