@@ -15,7 +15,9 @@
   <a href="https://github.com/Enzoluizb">
   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enzoluizb&theme=react&line_height=40&hide= css"/> </a>
   
-![snake gif](https://github.com/enzoluizb/enzoluizb/blob/output/github-contribution-grid-snake.svg)
+  <img align="right" height=150px width=150px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
+  ![snake gif](https://github.com/enzoluizb/enzoluizb/blob/output/github-contribution-grid-snake.svg)
 </div>
 
  
