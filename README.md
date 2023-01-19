@@ -1,8 +1,8 @@
 ## Bem-vindo ao meu GitHub 👋
 
-<p>Me chamo Enzo Luiz Bertoli, tenho 18 anos e estou cursando Técnico de Informática para Internet no SENAC - Joinville</p>
+<p>- Me chamo Enzo Luiz Bertoli, tenho 18 anos e estou cursando Técnico de Informática para Internet no SENAC - Joinville</p>
 
-<p>Estudando React e Typescript</p>
+<p>- Estudando React e Typescript</p>
 
 
 ##
