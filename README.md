@@ -2,7 +2,7 @@
 
 <p>- 🧑🏻Me chamo Enzo Luiz Bertoli, tenho 18 anos e estou cursando Técnico de Informática para Internet no SENAC - Joinville SC</p>
 
-<p>- Estudando React</p>
+<p>- 🔎Estudando React</p>
 
 ##
 <div> 
